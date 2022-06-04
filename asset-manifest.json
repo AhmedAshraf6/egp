@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/egp/static/css/main.ad22eca3.css",
+    "main.js": "/egp/static/js/main.890c8626.js",
+    "index.html": "/egp/index.html",
+    "main.ad22eca3.css.map": "/egp/static/css/main.ad22eca3.css.map",
+    "main.890c8626.js.map": "/egp/static/js/main.890c8626.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad22eca3.css",
+    "static/js/main.890c8626.js"
+  ]
+}
